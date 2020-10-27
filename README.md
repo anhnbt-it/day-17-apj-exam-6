@@ -1,10 +1,10 @@
 # Đề Thi Thực Hành 6
 
-Một đơn vị sản xuất gồm có các cán bộ là công nhân, kỹ sư, nhân viên.
-- Mỗi cán bộ cần quản lý lý các thuộc tính: Họ tên, ngày sinh, giới tính, địa chỉ
-- Các công nhân cần quản lý: Bậc (công nhân bậc 3/7, bậc 4/7 …)
-- Các kỹ sư cần quản lý: Ngành đào tạo
-- Các nhân viên phục vụ cần quản lý thông tin: công việc
+Một đơn vị sản xuất gồm có các cán bộ là **công nhân**, **kỹ sư**, **nhân viên**.
+- Mỗi cán bộ cần quản lý các thuộc tính: **Họ tên**, **ngày sinh**, **giới tính**, **địa chỉ**
+- Các công nhân cần quản lý: _Bậc_ (công nhân bậc 3/7, bậc 4/7 …)
+- Các kỹ sư cần quản lý: _Ngành đào tạo_
+- Các nhân viên phục vụ cần quản lý thông tin: _công việc_
 
 1. Xây dựng các lớp `NhanVien`, `CongNhan`, `KySu` kế thừa từ lớp `CanBo`
 2. Xây dựng các hàm để truy nhập (get), thay đổi (set) và hiển thị thông tin về các thuộc tính của các lớp (nếu cần).
